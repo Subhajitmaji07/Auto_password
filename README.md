@@ -1,4 +1,5 @@
 Auto Password Generator
+
 Overview
 Auto Password is a simple Python script that generates secure passwords automatically. This tool is designed to help users create strong and unique passwords for their online accounts, enhancing security and reducing the risk of unauthorized access.
 
