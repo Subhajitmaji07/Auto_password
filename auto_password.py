@@ -1,7 +1,7 @@
 import random
 import string
 
-pass_len=int(input("Enter the length of the password: "))
+pass_len=int(input("Enter the length of  password: "))
 #creating the password
 lower=string.ascii_lowercase
 upper=string.ascii_uppercase
